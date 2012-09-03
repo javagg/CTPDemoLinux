@@ -1,4 +1,4 @@
-CTPDemoLinux
-============
+CTPDemo
+=======
 
-CTPDemoLinux
+windows only
